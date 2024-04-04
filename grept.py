@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 # cli tool where you describe a pattern and it will search for it in the GPT-3 model
-# usage: gptgrep [the pattern you want to grep]
+# usage: grept [the pattern you want to grep]
 # example: 
-# $ gptgrep "include anything that starts with a capital J and ends with a lowercase e"
+# $ grept "include anything that starts with a capital J and ends with a lowercase e"
 # $ grep '^J.*e$'
 # $ echo -e "Jme\nand Jam" | grep '^J.*e$'
 # Jme
