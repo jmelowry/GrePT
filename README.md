@@ -1,1 +1,1 @@
-# gptgrep
+# GrePT
